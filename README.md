@@ -1,1 +1,1 @@
-# first_project
+Телеграм бот получает курсы FINEX с MOEX
